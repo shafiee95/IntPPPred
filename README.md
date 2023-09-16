@@ -20,7 +20,7 @@ Types of Files
 
 •	test.final.features.xlsx
 
-•	train. final. features.xlsx
+•	train. final. features.zip
 
 Guide
 
